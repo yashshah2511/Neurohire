@@ -6,3 +6,6 @@ backend/upload
 
 # frontend
 frontend/node_modules
+
+# data
+data
